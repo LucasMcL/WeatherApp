@@ -1,0 +1,17 @@
+{
+  "name": "WeatherApp",
+  "homepage": "https://github.com/LucasMcL/WeatherApp",
+  "authors": [
+    "LucasMcL <LMcLaughlin09@gmail.com>"
+  ],
+  "description": "Get weather and forecast based on ZIP code",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
